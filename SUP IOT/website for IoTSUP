@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>IoTSUP</title>
+</head>
+
+<body>
+  <img src="C:\Users\User\Desktop\Web Development\HTML - Personal Site\chill_1_ sup_man.jpg
+  " width="600" height="400" alt="sup chill man lake mountains" <hr>
+  <h1><strong>Internet of Things for Stand Up Paddle</strong></h1>
+  <p><em>a solution using <strong>artificial intelligence and internet of things </strong>for a better experience</em></p>
+  <hr>
+  <h2>What we´ve got for you</h2>
+  <ul>
+    <li>SUP Stand Up Paddle IoT toolkit</li>
+    <li>Skiing IoT toolkit</li>
+    <li>Your data manager site</li>
+    <li>Your place manager dashboard</li>
+  </ul>
+  <h3>Contact us</h3>
+  <ol>
+    <li>Instagram</li>
+    <li>eMail</li>
+    <li>Blog</li>
+  </ol>
+  <p>2021</p>
+</body>
+</html>
